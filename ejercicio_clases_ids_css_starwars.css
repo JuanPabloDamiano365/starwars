@@ -1,0 +1,16 @@
+.imperio {
+    background-color: red;
+  }
+  #vader {font-size: larger;}
+
+  #luke {font-style: italic;}
+
+  .soldados {border-style: dotted;
+border-width: 3px;
+letter-spacing: 2px;
+}
+.apoyo {text-align: center;}
+
+.xwing {text-transform: uppercase;}
+
+.tie {text-transform: uppercase;}
